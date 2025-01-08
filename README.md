@@ -12,4 +12,8 @@
 
 <br/>
 
+![Skills](https://skills-icons.vercel.app/api/icons?i=seyfert,ts,go,mongodb,redis,bun,deno)
+
+<br/>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=marcrock22&count_private=true&theme=github_dark&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

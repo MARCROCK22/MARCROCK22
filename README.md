@@ -12,7 +12,7 @@
 
 <br/>
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=seyfert,ts,go,mongodb,redis,bun,deno)
+![Skills](https://skills-icons.vercel.app/api/icons?i=seyfert,ts,go,mysql,nodejs,bun,deno,eslint,puppeteer,prisma,mongodb,redis,pnpm,biome)
 
 <br/>
 

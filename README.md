@@ -8,13 +8,15 @@
 -   Try seyfert https://seyfert.dev :D
 <br/>
 
-![Simxnet skill issue](https://muzyard.vercel.app/widget/507367752391196682?theme=transparent&blurbg&border&font=monocraft)
+<!-- thanks discord for banning me for no reason xDDDDDDD!!!!!!!!! -->
+<!-- ![Simxnet skill issue](https://muzyard.vercel.app/widget/507367752391196682?theme=transparent&blurbg&border&font=monocraft) -->
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/507367752391196682?borderRadius=20px&hideDiscrim=true&idleMessage=Kinda%20dumb)](https://discord.com/users/366779196975874049) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=seyfert,ts,go,mysql,nodejs,bun,deno,eslint,puppeteer,prisma,mongodb,redis,pnpm,biome)
 
 <br/>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=marcrock22&count_private=true&theme=github_dark&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

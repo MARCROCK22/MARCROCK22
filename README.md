@@ -13,6 +13,15 @@
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/507367752391196682?borderRadius=20px&hideDiscrim=true&idleMessage=Kinda%20dumb)](https://discord.com/users/366779196975874049) -->
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 23 June 2025 - To: 24 June 2025
+
+Total Time: 16 mins
+
+Go         7 mins          >>>>>>>>>>>--------------   44.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>

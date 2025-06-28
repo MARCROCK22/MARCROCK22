@@ -15,14 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 27 June 2025
+From: 23 June 2025 - To: 28 June 2025
 
 Total Time: 51 mins
 
 Go           31 mins         >>>>>>>>>>>>>>>----------   60.21 %
-Markdown     9 mins          >>>>>--------------------   18.69 %
-YAML         6 mins          >>>----------------------   13.21 %
-JSON         1 min           >------------------------   03.76 %
 TypeScript   1 min           >------------------------   03.43 %
 ```
 

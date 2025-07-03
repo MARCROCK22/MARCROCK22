@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 01 July 2025
+From: 23 June 2025 - To: 02 July 2025
 
-Total Time: 1 hr 32 mins
+Total Time: 2 hrs 4 mins
 
-Go           51 mins         >>>>>>>>>>>>>>-----------   55.44 %
-TypeScript   2 mins          >------------------------   02.65 %
+Go           54 mins         >>>>>>>>>>>--------------   43.90 %
+TypeScript   2 mins          -------------------------   01.97 %
 ```
 
 <!--END_SECTION:waka-->

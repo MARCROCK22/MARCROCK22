@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 05 July 2025
+From: 23 June 2025 - To: 06 July 2025
 
-Total Time: 4 hrs 46 mins
+Total Time: 7 hrs
 
-Go           2 hrs 5 mins    >>>>>>>>>>>--------------   43.96 %
-TypeScript   54 mins         >>>>>--------------------   19.09 %
-Docker       2 mins          -------------------------   00.94 %
+Go           3 hrs 41 mins   >>>>>>>>>>>>>------------   52.10 %
+TypeScript   1 hr 19 mins    >>>>>--------------------   18.72 %
+Other        4 mins          -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->

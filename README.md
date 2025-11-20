@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 17 November 2025
+From: 23 June 2025 - To: 18 November 2025
 
-Total Time: 132 hrs 24 mins
+Total Time: 132 hrs 49 mins
 
-Go           75 hrs 29 mins  >>>>>>>>>>>>>>-----------   56.06 %
-TypeScript   14 hrs 48 mins  >>>----------------------   11.00 %
-C++          9 hrs 27 mins   >>-----------------------   07.02 %
-Svelte       7 hrs 43 mins   >------------------------   05.74 %
+Go           75 hrs 34 mins  >>>>>>>>>>>>>>-----------   55.95 %
+TypeScript   14 hrs 48 mins  >>>----------------------   10.97 %
+C++          9 hrs 27 mins   >>-----------------------   07.00 %
+Svelte       7 hrs 43 mins   >------------------------   05.72 %
 Other        2 hrs 14 mins   -------------------------   01.67 %
 ```
 

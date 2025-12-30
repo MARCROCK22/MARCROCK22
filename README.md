@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 27 December 2025
+From: 23 June 2025 - To: 28 December 2025
 
-Total Time: 196 hrs 25 mins
+Total Time: 196 hrs 33 mins
 
-Go            102 hrs 57 mins >>>>>>>>>>>>>------------   51.17 %
-TypeScript    33 hrs 20 mins  >>>>---------------------   16.57 %
+Go            102 hrs 57 mins >>>>>>>>>>>>>------------   51.14 %
+TypeScript    33 hrs 28 mins  >>>>---------------------   16.63 %
 Svelte        14 hrs 45 mins  >>-----------------------   07.33 %
 C++           12 hrs 56 mins  >>-----------------------   06.43 %
 JSON          8 hrs 15 mins   >------------------------   04.10 %

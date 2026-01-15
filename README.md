@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 13 January 2026
+From: 23 June 2025 - To: 14 January 2026
 
-Total Time: 258 hrs 15 mins
+Total Time: 258 hrs 18 mins
 
-Go                113 hrs 21 mins >>>>>>>>>>>--------------   43.05 %
-TypeScript        74 hrs 41 mins  >>>>>>>------------------   28.37 %
+Go                113 hrs 23 mins >>>>>>>>>>>--------------   43.06 %
+TypeScript        74 hrs 41 mins  >>>>>>>------------------   28.36 %
 Svelte            14 hrs 48 mins  >------------------------   05.62 %
 C++               12 hrs 59 mins  >------------------------   04.93 %
 JSON              12 hrs 32 mins  >------------------------   04.76 %
-TOML              8 hrs           >------------------------   03.04 %
+TOML              8 hrs 1 min     >------------------------   03.05 %
 Other             5 hrs 3 mins    -------------------------   01.92 %
 Kotlin            2 hrs 50 mins   -------------------------   01.08 %
 YAML              2 hrs 37 mins   -------------------------   01.00 %

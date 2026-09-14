@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```ts
-From: 23 June 2025 - To: 11 September 2026
+From: 23 June 2025 - To: 12 September 2026
 
-Total Time: 1,052 hrs 42 mins
+Total Time: 1,052 hrs 45 mins
 
-Go                                 241 hrs 56 mins       >>>>>>-------------------   22.03 %
+Go                                 241 hrs 56 mins       >>>>>>-------------------   22.02 %
 TypeScript                         213 hrs 20 mins       >>>>>--------------------   19.42 %
-Dart                               192 hrs 5 mins        >>>>---------------------   17.49 %
-Markdown                           98 hrs 17 mins        >>-----------------------   08.95 %
+Dart                               192 hrs 5 mins        >>>>---------------------   17.48 %
+Markdown                           98 hrs 21 mins        >>-----------------------   08.95 %
 Svelte                             95 hrs 14 mins        >>-----------------------   08.67 %
-Other                              45 hrs 41 mins        >------------------------   04.16 %
+Other                              45 hrs 55 mins        >------------------------   04.18 %
 JSON                               38 hrs 32 mins        >------------------------   03.51 %
 Python                             18 hrs 27 mins        -------------------------   01.68 %
 YAML                               18 hrs 13 mins        -------------------------   01.66 %
